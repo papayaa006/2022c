@@ -88,7 +88,7 @@ int main ()
     if("a==0") printf("不管什麼東西，幾乎都成立\n");
 }
 ```
-#long long int
+# long long int
 ```
 #include <stdio.h>
  int main ()
@@ -100,7 +100,7 @@ int main ()
  }
  ```
  
- #暴力解公因數(long long int)
+ # 暴力解公因數(long long int)
  ```
  #include <stdio.h>
 int main ()
@@ -115,7 +115,7 @@ int main ()
     printf("答案是：%lld\n", ans);
 }
 ```
-輾轉相除法(long long int)
+# 輾轉相除法(long long int)
 ```
 #include <stdio.h>
 int main ()
@@ -134,7 +134,7 @@ int main ()
 }
 ```
 
-#剝皮法
+# 剝皮法
 ```
 #include <stdio.h>
 int main ()
