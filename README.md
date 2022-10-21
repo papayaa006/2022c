@@ -89,7 +89,7 @@ int main ()
 }
 ```
 # long long int
-```
+```cpp
 #include <stdio.h>
  int main ()
  {
@@ -101,7 +101,7 @@ int main ()
  ```
  
  # 暴力解公因數(long long int)
- ```
+ ```cpp
  #include <stdio.h>
 int main ()
 {
@@ -116,7 +116,7 @@ int main ()
 }
 ```
 # 輾轉相除法(long long int)
-```
+```cpp
 #include <stdio.h>
 int main ()
 {
@@ -135,7 +135,7 @@ int main ()
 ```
 
 # 剝皮法
-```
+```cpp
 #include <stdio.h>
 int main ()
 {
