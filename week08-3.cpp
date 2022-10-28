@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main ()
 {
-    printf("§PÂ_¤@­Ó¼Æ¬O¤£¬O½è¼Æ:");
+    printf("åˆ¤æ–·ä¸€å€‹æ•¸æ˜¯ä¸æ˜¯è³ªæ•¸:");
     int n;
     scanf("%d", &n);
 
@@ -10,6 +10,6 @@ int main ()
     {
         if(n%i==0) bad=1;
     }
-    if(bad==0) printf("%d¬O½è¼Æ", n);
-    else printf("%d¤£¬O½è¼Æ", n);
+    if(bad==0) printf("%dæ˜¯è³ªæ•¸", n);
+    else printf("%dä¸æ˜¯è³ªæ•¸", n);
 }
