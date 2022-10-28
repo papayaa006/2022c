@@ -148,7 +148,7 @@ int main ()
 }
 ```
 
-#用兩個for迴圈求出全部的因數
+# 用兩個for迴圈求出全部的因數
 ```cpp
 #include <stdio.h>
 int main ()
