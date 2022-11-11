@@ -229,7 +229,7 @@ int main ()
 }
 ```
 
-#陣列
+# 陣列
 ```cpp
 #include <stdio.h>
 int main ()
@@ -243,7 +243,7 @@ int main ()
 }
 ```
 
-#陣列
+# 陣列反著印
 ```cpp
 #include <stdio.h>
 int main ()
